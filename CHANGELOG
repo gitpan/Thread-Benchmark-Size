@@ -1,2 +1,7 @@
+0.02	24 September 2002
+	Renamed module to Benchmark::Thread::Size as per suggestion of Arthur
+	Bergman.  This is now just an empty shell with the new module name as
+	a pre-requisite.
+
 0.01	23 September 2002
 	First version of Thread::Benchmark::Size.

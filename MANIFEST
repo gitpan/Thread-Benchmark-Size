@@ -1,8 +1,5 @@
 MANIFEST
 CHANGELOG
 README
-TODO
 VERSION
 Makefile.PL
-lib/Thread/Benchmark/Size.pm
-t/Size.t

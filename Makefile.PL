@@ -7,7 +7,8 @@ WriteMakefile (
  ($[ >= 5.005) ?
  (AUTHOR	=> 'Elizabeth Mattijsen (liz@dijkmat.nl)',
   ABSTRACT	=> 'report size of threads for different code approaches') : (),
- VERSION_FROM	=> 'lib/Thread/Benchmark/Size.pm',
+ VERSION	=> '0.02',
  PREREQ_PM	=> {
+		    Benchmark::Thread::Size => 0
                    },
 );
